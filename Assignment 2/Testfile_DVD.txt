@@ -1,0 +1,62 @@
+Avatar 
+Action
+June 10th
+No
+7
+No
+Spiderman 
+Romance
+June 1st
+Yes
+9
+Yes
+Greatest Showman 
+Musical
+November 2nd
+No
+7
+No
+Iron Man 
+Action
+November 2nd
+No
+7
+No
+Alladin 
+Romance
+November 2nd
+No
+7
+No
+Moana 
+Comedy
+November 2nd
+No
+3
+No
+Mummy 
+Horror
+November 2nd
+No
+5
+Yes
+Twilight 
+Romance
+November 2nd
+No
+1
+Yes
+Gladiator 
+Action
+November 2nd
+No
+8
+Yes
+Inception 
+Sci-fi
+November 2nd
+No
+9
+Yes
+
+
